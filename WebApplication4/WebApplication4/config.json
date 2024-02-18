@@ -1,0 +1,24 @@
+{
+  "library": {
+    "books": [
+      {
+        "title": "Book1",
+        "author":  "author1"
+      },
+      {
+        "title": "Book2",
+        "author": "author2"
+      }
+    ],
+    "profiles": [
+      {
+        "name": "Illya",
+        "surname": "Horshkolepov"
+      },
+      {
+        "name": "Yevhen",
+        "surname": "Stoyev"
+      }
+    ]
+  }
+}
